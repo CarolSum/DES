@@ -11,3 +11,6 @@ To compile this project, just use:
 ```
 gcc main.c -o main.exe
 ```
+
+--- 
+由于最近作业量太多，时间比较仓促，代码写得很糟糕，右面再考虑优化TAT.
